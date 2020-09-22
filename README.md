@@ -1,2 +1,2 @@
 # CompareDigits
-Compare digits using fourier trnsform
+Compare digits using fourier transform
