@@ -20,12 +20,18 @@ xlrd
 openpyxl
 scipy
 scikit-image
-opencv 
+
 
 ################################################################
 # TensorFlow v.2.1 and above include both CPU and GPU versions.
 
 tensorflow
+
+
+################################################################
+# opencv
+#conda install -c anaconda opencv 
+
 
 
 
