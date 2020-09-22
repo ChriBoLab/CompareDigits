@@ -1,5 +1,5 @@
 # CompareDigits
-Compare digits using fourier transform
+Compare digits using fourier transform and heatmaps
 
 
 
@@ -7,18 +7,6 @@ Compare digits using fourier transform
 
 ## Installation
 
-### Environment 
-
-I use [Anaconda](https://www.anaconda.com/products/individual) because it comes with many Python
-packages already installed and it is easy to work with. After installing Anaconda,
-you should create a [conda environment](http://conda.pydata.org/docs/using/envs.html)
-so you do not destroy your main installation in case you make a mistake somewhere:
-
-       conda create --name machine_translation python=3.7
-
-Now you can switch to the new environment by running the following:
-
-      source activate machine_translation
       
 ### Required Packages
 
