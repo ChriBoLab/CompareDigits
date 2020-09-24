@@ -20,7 +20,11 @@ xlrd
 openpyxl
 scipy
 scikit-image
+<<<<<<< HEAD
 #conda install -c anaconda opencv
+=======
+
+>>>>>>> bb1d04ac9be62bbfaf04a01719641fbd404938d1
 
 ################################################################
 # TensorFlow v.2.1 and above include both CPU and GPU versions.
@@ -30,6 +34,12 @@ tensorflow
 ################################################################
 # cv2
 #conda install -c anaconda opencv
+
+
+################################################################
+# opencv
+#conda install -c anaconda opencv 
+
 
 
 
